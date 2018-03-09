@@ -1,0 +1,18 @@
+body {
+  margin: 0 25% 0 25%;
+  border: 3px solid lightgray;
+  padding: 5px;
+  background: url(https://wallpapershome.ru/images/pages/pic_hs/225.jpg);
+}
+.navigation-menu {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+.navigation-item {
+  display: inline;
+  border: 3px solid lightgray;
+}
+.navigation-item a {
+  text-decoration: none;
+}
